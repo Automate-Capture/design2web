@@ -1,10 +1,10 @@
 site_name: Design2Web
-site_url: https://lumi-node.github.io/design2web/
+site_url: https://automate-capture.github.io/design2web/
 site_description: "Converts static design mockups (PNG/JPG) into runnable HTML/CSS web pages."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/design2web
-repo_name: Lumi-node/design2web
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/design2web
+repo_name: Automate-Capture/design2web
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/design2web
+      link: https://github.com/Automate-Capture/design2web
   generator: false
 
 extra_css:

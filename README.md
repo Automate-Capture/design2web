@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/design2web"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge"></a>
-  <a href="https://github.com/Lumi-node/design2web"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version Badge"></a>
-  <a href="https://github.com/Lumi-node/design2web"><img src="https://img.shields.io/badge/Tests-8%20Tests-green.svg" alt="Test Count Badge"></a>
+  <a href="https://github.com/Automate-Capture/design2web"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge"></a>
+  <a href="https://github.com/Automate-Capture/design2web"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version Badge"></a>
+  <a href="https://github.com/Automate-Capture/design2web"><img src="https://img.shields.io/badge/Tests-8%20Tests-green.svg" alt="Test Count Badge"></a>
 </p>
 
 ---

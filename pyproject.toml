@@ -41,10 +41,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/design2web"
-Documentation = "https://lumi-node.github.io/design2web/"
-Repository = "https://github.com/Lumi-node/design2web"
-Issues = "https://github.com/Lumi-node/design2web/issues"
+Homepage = "https://github.com/Automate-Capture/design2web"
+Documentation = "https://automate-capture.github.io/design2web/"
+Repository = "https://github.com/Automate-Capture/design2web"
+Issues = "https://github.com/Automate-Capture/design2web/issues"
 
 [tool.ruff]
 line-length = 100

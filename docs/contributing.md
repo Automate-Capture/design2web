@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Design2Web!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/design2web.git
+git clone https://github.com/Automate-Capture/design2web.git
 cd design2web
 pip install -e ".[dev]"
 ```

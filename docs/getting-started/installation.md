@@ -9,7 +9,7 @@ pip install design2web
 ## From Source
 
 ```bash
-git clone https://github.com/Lumi-node/design2web.git
+git clone https://github.com/Automate-Capture/design2web.git
 cd design2web
 pip install -e ".[dev]"
 ```
